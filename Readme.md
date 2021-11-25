@@ -1,0 +1,1 @@
+Olá, esse é meu primeiro projeto pessoal criado por mim, algo simples, um gerador de cores para backgrounds usando Javascript.
