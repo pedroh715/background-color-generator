@@ -21,7 +21,7 @@ body{
     background-color: #151515;
     height: 150px;
     width: 550px;
-    font-size: 40px;
+    font-size: 30px;
     justify-content: center;
     align-items: center;
     font-weight: 400;
@@ -39,6 +39,7 @@ body{
     
 }
 .generator{
+    color: white;
     border-radius: 10px;
     cursor: pointer;
     font-size: 20px;
@@ -59,7 +60,7 @@ body{
 .copy button{
     cursor: pointer;
     border: none;
-    background-color: none;
+    background: none;
     outline: solid 2px #151515;
     font-size: 20px;
     padding: 10px;
